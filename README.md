@@ -14,3 +14,7 @@ This is a good example of [my code](https://gist.github.com/kemsolmaz/8b24af4349
 
 This is my colab [notebook](https://colab.research.google.com/github/kemsolmaz/technical-discussion/blob/master/Technical_docs.ipynb)
 
+### Image
+
+https://github.com/kemsolmaz/technical-discussion/issues/1#issue-1046744274
+
