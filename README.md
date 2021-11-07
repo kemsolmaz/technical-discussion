@@ -16,5 +16,5 @@ This is my colab [notebook](https://colab.research.google.com/github/kemsolmaz/t
 
 ### Image
 
-https://github.com/kemsolmaz/technical-discussion/issues/1#issue-1046744274
+
 
