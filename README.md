@@ -18,6 +18,6 @@ This is my colab [notebook](https://colab.research.google.com/github/kemsolmaz/t
 
 ![image](https://user-images.githubusercontent.com/61534799/140647045-9f77dfc3-7939-4884-8cae-d4cb59afd347.png)
 
-### Jupyter Notebook 
+
 
 
